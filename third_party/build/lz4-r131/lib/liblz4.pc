@@ -1,0 +1,14 @@
+#   LZ4 - Fast LZ compression algorithm
+#   Copyright (C) 2011-2014, Yann Collet.
+#   BSD 2-Clause License (http://www.opensource.org/licenses/bsd-license.php)
+
+prefix=/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/lz4-r131_x86_64/
+libdir=/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/lz4-r131_x86_64//lib
+includedir=/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/lz4-r131_x86_64//include
+
+Name: lz4
+Description: fast lossless compression algorithm library
+URL: http://code.google.com/p/lz4/
+Version: 129
+Libs: -L/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/lz4-r131_x86_64//lib -llz4
+Cflags: -I/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/lz4-r131_x86_64//include

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>15E65</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>tblk</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>tunnelblick_package.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Tunnelblick VPN Configuration</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSTypeIsPackage</key>
+			<true/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>Binary</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>ovpn</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>tunnelblick_package.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>OpenVPN Configuration</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSTypeIsPackage</key>
+			<true/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>Binary</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>conf</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>tunnelblick_package.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>OpenVPN Configuration</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSTypeIsPackage</key>
+			<true/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>Binary</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>Tunnelblick</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>Tunnelblick Help</string>
+	<key>CFBundleIconFile</key>
+	<string>tunnelblick.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.tunnelblick.tunnelblick</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Tunnelblick</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.6.4beta04 (build 4562) Debug</string>
+	<key>CFBundleSignature</key>
+	<string>OVPN</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>4562</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>7D1014</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>15E60</string>
+	<key>DTSDKName</key>
+	<string>macosx10.11</string>
+	<key>DTXcode</key>
+	<string>0731</string>
+	<key>DTXcodeBuild</key>
+	<string>7D1014</string>
+	<key>IPCheckURL</key>
+	<string>https://www.tunnelblick.net/ipinfo</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
+	<true/>
+	<key>NSUIElement</key>
+	<string>1</string>
+	<key>OSAScriptingDefinition</key>
+	<string>tunnelblick.sdef</string>
+	<key>SUEnableSystemProfiling</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://www.tunnelblick.net/appcast.rss</string>
+	<key>SUPublicDSAKeyFile</key>
+	<string>dsa_pub.pem</string>
+	<key>TBGitHash</key>
+	<string>14fe85901b0172e5d50361f3135c19cb9e003c61</string>
+	<key>TBGitStatus</key>
+	<string> M Tunnelblick.xcodeproj/project.xcworkspace/xcshareddata/Tunnelblick.xcscmblueprint ?? ../third_party/build/ ?? ../third_party/built-easy-rsa-tunnelblick ?? ../third_party/built-lz4 ?? ../third_party/built-lzo ?? ../third_party/built-openssl ?? ../third_party/built-openssl-prepare ?? ../third_party/built-openvpn ?? ../third_party/built-openvpn-prepare ?? ../third_party/built-pkcs11-helper ?? ../third_party/built-sparkle ?? ../third_party/built-sparkle-prepare ?? ../third_party/built-tuntap ?? ../third_party/built-tuntap-prepare ?? ../third_party/do-not-clean ?? ../third_party/products/ ?? build/ </string>
+</dict>
+</plist>

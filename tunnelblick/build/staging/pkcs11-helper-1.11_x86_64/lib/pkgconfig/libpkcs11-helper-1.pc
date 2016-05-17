@@ -1,0 +1,11 @@
+prefix=/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/pkcs11-helper-1.11_x86_64
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/pkcs11-helper-1.11/include
+features= debug token data certificate openssl engine_crypto_openssl engine_crypto_nss engine_crypto_polarssl engine_crypto_cryptoapi engine_crypto_gnutls engine_crypto
+
+Name: pkcs11-helper
+Description: PKCS#11 helper library
+Version: 1.11
+Cflags: -I${includedir}
+Libs: -ldl  -L/Users/Jean/Dropbox/Website/openVPN/third_party/build/staging/openssl-1.0.2h/lib 	              -lssl 	              -lcrypto 	              -lz -L${libdir} -lpkcs11-helper

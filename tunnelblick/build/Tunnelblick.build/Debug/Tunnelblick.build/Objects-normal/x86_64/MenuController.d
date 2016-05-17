@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/MenuController.m \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/MenuController.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/defines.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/easyRsa.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/helper.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/sharedRoutines.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/AuthAgent.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/ConfigurationManager.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/ConfigurationMultiUpdater.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/ConfigurationsView.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/ConfigurationUpdater.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/LeftNavItem.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/LeftNavViewController.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/MainIconView.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/MyPrefsWindowController.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/DBPrefsWindowController.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/NSApplication+LoginItem.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/NSFileManager+TB.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/NSString+TB.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/NSTimer+TB.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/../third_party/products/sparkle/Sparkle.framework/Headers/SUUpdater.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/../third_party/products/sparkle/Sparkle.framework/Headers/SUVersionComparisonProtocol.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/SplashWindowController.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/TBUIUpdater.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/TBUserDefaults.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/UIHelper.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/VPNConnection.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/TBPerformer.h \
+  /Users/Jean/Dropbox/Website/openVPN/tunnelblick/WelcomeController.h
